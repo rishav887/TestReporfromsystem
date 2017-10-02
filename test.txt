@@ -1,0 +1,10 @@
+ Volume in drive C has no label.
+ Volume Serial Number is 62C0-1620
+
+ Directory of C:\Users\Rishavt\Desktop\MyprojectforGIT
+
+09/29/2017  06:28 AM    <DIR>          .
+09/29/2017  06:28 AM    <DIR>          ..
+09/29/2017  06:28 AM                 0 test.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  32,506,523,648 bytes free
